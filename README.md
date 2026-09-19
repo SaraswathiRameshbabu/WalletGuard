@@ -1,10 +1,10 @@
 # 🛡️ WalletGuard
-### 🔴 [🚀 Live Demo](https://walletguardsaraswathi-9t07zaaf2-s-5944.vercel.app?_vercel_share=tnP2AGoKRZojTTJa7M5MXe4Ejm9YMD29)
+### 🔴 [🚀 Live Demo](https://walletguardsaraswathi.vercel.app?_vercel_share=bKJkvDGYNouGBvlFQQETShG4tnzOGf9F)
 
 ### Active Approval Security & Revocation for Web3 Wallets
 
 WalletGuard helps users discover, verify, understand, and revoke active ERC-20 token approvals that may expose their assets.
-**Current Scope: WalletGuard currently supports ERC-20 token approvals on Ethereum Mainnet only (Eg:0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045, 0xF977814e90dA44bFA03b6295A0616a897441aceC) ; Future Scope: All token approvals**
+**Current Scope: WalletGuard currently supports ERC-20 token approvals on Ethereum Mainnet only (Eg:0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045, 0x742d35Cc6634C0532925a3b844Bc454e4438f44e, 0xF977814e90dA44bFA03b6295A0616a897441aceC) ; Future Scope: All token approvals**
 
 ## 🚀 Key Features
 
