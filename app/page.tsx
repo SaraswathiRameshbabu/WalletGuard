@@ -1766,7 +1766,7 @@ export default function Page() {
           <div className="flex flex-col gap-3 lg:flex-row lg:items-end">
             <div className="flex-1">
               <div className="mb-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-slate-500">
-                Check any wallet
+                Check any wallet (Currently supports ERC-20 token approvals on Ethereum Mainnet only.)
               </div>
 
               <p className="mb-2 text-xs text-slate-500">
