@@ -4,6 +4,7 @@
 ### Active Approval Security & Revocation for Web3 Wallets
 
 WalletGuard helps users discover, verify, understand, and revoke active ERC-20 token approvals that may expose their assets.
+Current Scope: WalletGuard currently supports ERC-20 token approvals on Ethereum Mainnet only; Future Scope: All tokens
 
 ## 🚀 Key Features
 
